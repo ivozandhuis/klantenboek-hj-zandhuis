@@ -1,206 +1,336 @@
-fol,datum,omschrijving,prijs
-1,19070605,"Een hitpaard beslagen, vier nieuwe ijzers","1,200"
-1,19070620,Een theelichtje gerepareerd,"0,150"
-1,19070625,Een paard ijzer verlegd en nieuwe,"0,900"
-1,19070702,Reparatie aan de Cusjonwagen en een nieuwe schroef,"0,250"
-1,19070705,Een boutje in de dogkar,"0,200"
-1,19070708,Een aslade gerepareerd,"0,200"
-1,19070710,De hit een ijzer verlegt,"0,150"
-1,19070722,de hit ijzers verlegt,"0,600"
-1,19070729,de hit ijzers verlegt,"0,600"
-1,19070810,Een schroef door de dogcar,"0,080"
-1,19070819,Een duim een stuk en twee veeren aangezet met spijker,"0,350"
-1,19070820,De dogcar gesmeerd en een nieuw leeren schijfje,"0,200"
-1,19070823,de hit ijzers verlegt en nieuwe,"0,900"
-1,19070828,de hit ijzers verlegt,"0,600"
-1,19070906,Een ijzer aan de dogcar,"0,200"
-1,19070915,de hit een oud ijzer onder gelegd,"0,175"
-1,19070921,de hit beslagen,"1,200"
-1,19071027,de hit ijzers verlegd,"0,600"
-1,19071031,Een kachelpijp gepoetst,"0,100"
-1,19071119,5 ankernagels,"0,025"
-1,19071120,4-2d slotschroeven,
-1,19071121,10 = 2 ½ slotschroeven en ijzertje verzet,"0,050"
-1,19071121,4 spijkers,"0,020"
-1,19071122,2 = 2d slotschroeven,
-1,19071125,4 banden op een ton hoepels,"1,400"
-1,19071126,6 = 2 duims slotschroeven,
-1,19071128,2 stukken navenbandijzer aan ijzertjes gezet om een dakraam op te zetten,"0,250"
-1,19071205,6 = 2 ½ d slotschroeven,
-1,19071205,Een trechter g.g. plaatijzer wegende 10 pond,
-1,19071206,4 = 2 slotschroeven,
-1,19071206,4 veeren aan roeien gemaakt,"0,150"
-1,19071206,10 ankernagels,"0,050"
-1,19071217,de hit beslagen,"1,200"
-2,19070528,de hit ijzer verlegt en een paar nieuwe,"0,950"
-2,19070625,Een ronsel van een berg ijzerwerk aangemaakt,"0,200"
-2,19070729,Een band op een ton,"0,300"
-2,19070729,Twee banden verlast en een stuk aan een handvat,"0,200"
-2,19071019,een hit ijzers verlegd,"0,300"
-2,19071014,4 hengsels met duimen voor glaskozijn,
-2,19071014,2 boomen op de venster met 2 bouten en lansjes met kettingjes en krammen en 4 = 2 duim slotschroeven,
-3,19070819,4 hoepels verlegd,"2,400"
-3,19070819,8 bladen in de veeren wegende 29 ½ pond,"4,205"
-3,19070819,2 winkelhaken op de wagen met 6 slotschroeven en spijkers,"0,500"
-3,19070819,2 oogen met 4 schroeven en spijkers,"0,450"
-3,19070819,2 kettingen elk 14 schakels per stuk 70 ct,"1,400"
-3,19070819,2 slotschroeven in het achterhek,"0,100"
-3,19070819,3 slotschroeven in de veeren,"0,120"
-3,19070822,Een paard beslagen,"1,400"
-3,19070822,reparatie aan de wagen van D. v. Laan,"0,300"
-3,19070910,Een paard beslagen,"0,700"
-3,19070910,de tree van de wagen gemaakt,"0,200"
-3,19070920,Een strop van de wagen gemaakt,"0,250"
-3,19070919,Een bout in de wagen,"0,070"
-3,19070923,het paard ijzers verlegd,"0,350"
-3,19071001,paard beslagen,"0,700"
-3,19071017,paard een paar nieuwe en verlegd,"1,000"
-3,19071106,paard beslagen,"0,700"
-3,19071109,paard beslagen,"0,700"
-3,19071122,paard ijsnagels geslagen,"0,100"
-3,19071125,paard ijsnagels gestoken,"0,200"
-3,19071126,paard ijsnagels gestoken,"0,200"
-3,19071206,paard vier scherpe ijzers ondergelegd,"3,500"
-3,19071211,een stompe schroef,"0,030"
-3,19071217,een paard de ijzers onderweg genomen en 7 stompe schroeven,"0,410"
-3,19071221,3 stompe schroeven,"0,090"
-3,19071223,9 stompe schroeven in paard gedraaid,"0,315"
-3,19071227,16 scherpe schroeven,"0,480"
-4,19070728,Een paard ijzers verlegd,"0,700"
-4,19071027,Een nieuwe haak op de sleepkar,"0,790"
-4,19071216,Een schuimlepelsteel vastgemaakt,"0,600"
-5,19070527,Een paard beslagen met stoeten,"1,500"
-5,19070604,Een paard beslagen,"0,750"
-5,19070606,Een paard beslagen,"0,750"
-5,19070612,Een paard beslagen,"0,750"
-5,19070618,Een paard ijzers verlegd,"0,350"
-5,19070625,Een paard nieuwe ijzers,"0,750"
-5,19070627,Een paard ijzers verlegd,"0,350"
-5,19070713,Een paard beslagen,"0,750"
-5,19070715,Een paard een ijzer verlegd,"0,150"
-5,19070715,2 bouten gat doorgeslagen en 2 splitveeren,"0,100"
-5,19070723,Een paard een ijzer verlegd,"0,150"
-5,19070730,2 voorhoepels van de wagen verlegt,"1,800"
-5,19070730,de tree gemaakt,"0,250"
-5,19070810,Een paard een ijzer onder gelegd,"0,175"
-5,19070813,Een paard op gladde ijzers gezet,"1,400"
-5,19070814,Een greep aan de steel gemaakt,"0,100"
-5,19070820,Een paard beslagen,"0,600"
-5,19070828,Een bout aan elkaar gezet,"0,100"
-5,19070905,Een oud ijzer onder het paard gemaakt,"0,175"
-5,19070906,Een paard beslagen met stoeten,"1,500"
-5,19070914,Een paard beslagen met stoeten en staal in de kalkoenen,"1,600"
-5,19070927,Een ijzer onder geslagen,"0,175"
-5,19071002,Een driebeentje op 't stel,"0,200"
-5,19071004,Een paard beslagen stoeten en twee kalkhoenen en staal,"1,650"
-5,19071011,de as gelascht en opgedikt nieuwe linksche draad en een band verlegd,"3,250"
-5,19071022,Een paard een paar nieuwe ijzers met stoeten en een paar verlegd,"1,100"
-5,19071024,Een paard beslagen met stoeten en staal in de kalkhoenen,"1,600"
-5,19071028,Een paard beslagen met stoeten,"0,800"
-5,19071104,Een paard met nieuw ijzer met staal,"0,400"
-5,19071121,Een ijzer onder een paard,"0,175"
-5,19071126,Een valletje gelascht en een kram in een touwknuppel,"0,250"
-5,19071204,Een as van een wagen aan elkaar gezet en opgedikt,"0,250"
-5,19071205,Een paard scherpe ijzers 4,
-5,19071207,Een paard 4 scherpe ijzers,
-5,19071209,Een paard ijzers verlegd en stooten in gezet,"0,800"
-5,19071211,4 stompe schroeven,
-5,19071213,paard ijzers de draad veranderd (2 stuks),"0,150"
-5,19071218,16 punten,"0,480"
-5,19071223,16 stompe schroeven,"0,480"
-5,19071228,20 stompe schroeven,"0,600"
-5,19071228,Een paard een ijzer onder gemaakt,"0,100"
-6,19070606,fornuis gerepareerd en nieuwe pijp 85 cm en ringetje gemaakt,"1,300"
-6,19071028,Een stukje pijp aan de nieuwe kachel,"0,300"
-6,19071026,Een halve meter pijp,"0,400"
-6,19071202,Een moertje voor de kachel,"0,050"
-6,19071217,Reparatie aan de pijp van de fornuispot,"0,150"
-7,19070600,Een paard beslagen,
-7,19070619,Een paard beslagen,"0,700"
-7,19070620,Rijwielketting gemaakt voor Jacob,"0,250"
-7,19070626,2 paarden elk een ijzer ondergelegd en andere vastgemaakt,"0,350"
-7,19070626,een ijzer onder gelegd,"0,150"
-7,19070627,reparatie aan de fiets van Jacob,"0,100"
-7,19070702,Jacob een nieuwe band,"4,000"
-7,19070703,een band dicht gemaakt,"0,150"
-7,19070706,een schroefje en een bandventiel verzet,"0,350"
-7,19070719,de hit beslagen,"0,600"
-7,19070726,Een paard beslagen,"0,700"
-7,19070801,Een paard beslagen,"0,700"
-7,19070808,Een lantaarnhaak aan de kar gemaakt,"0,200"
-7,19070809,fietsband dichtgemaakt,"0,150"
-7,19070810,Een nieuwe as met Cups en kogels in de fiets,"1,200"
-7,19070829,Een paard beslagen,"0,700"
-7,19070831,Een hit beslagen,"0,600"
-7,19071010,de ras beslagen,"1,400"
-7,19071026,J. Polak de fiets dichtgemaakt,"0,150"
-7,19071120,Een paard beslagen,"0,700"
-7,19071227,Een paard gescherpt,"2,500"
-8,19070600,6 ringen op zeisen boomen,"0,450"
-8,19070618,Een nagel en 2 ringen,"0,175"
-8,19070618,6 ringen op zeisenboomen,"0,450"
-9,19070600,Een kop voor haarhamer,"0,200"
-10,19070612,Een kop voor haarhamer,"0,200"
-10,19070612,Een haarspit aangelegd,"0,400"
-10,19070628,10 winkelhaakjes a 7 ct stuk,"0,700"
-10,19070709,Een haarhamer kop voorgezet,"0,200"
-10,19070728,Een haarhamer aangelegd,"0,200"
-10,19070829,2 winkelhaakjes met 6 houtschroeven,"0,250"
-10,19070904,Een nieuwe pijp 1 M bij 73 cM 6 1/2 p en een schuifje,"1,795"
-10,19070924,Een nieuw dekseltje met handvat,"0,250"
-10,19071001,De ploeg gescherpt,
-10,19071127,Een lunsje,"0,050"
-10,19070000,de knecht van Berends een haarhamer,"0,200"
-11,19070612,Een kozijnanker een stuk aangezet,"0,200"
-11,19070805,de hit ijzers verlegt,"0,300"
-11,19070808,Een zakring,"0,650"
-11,19070812,Een paard beslagen,"0,900"
-11,19070822,4 doken,"0,080"
-11,19070823,2 hengsels gemaakt van een oud stuk ijzer,"0,500"
-11,19070823,12 slotschroeven,"0,480"
-11,19070823,25 spijkers,"0,125"
-11,19070823,1 nieuw hengsel wegende 5 1/2 pond,"0,650"
-11,19070823,Een haakje aan een grendel,"0,100"
-11,19070827,Een bodem in de fornuispot,"0,650"
-11,19070831,de fiets dichtgemaakt,"0,200"
-11,19070910,"de fiets dichtgemaakt, nieuwe draad met moer en nagezien","0,500"
-11,19071105,het een paar ijzers verlegd en een paar oude ijzers onder gelegd,"0,700"
-11,19071108,2 lipjes aan kacheldeksel,"0,100"
-11,19071223,de damesfiets de trapper gerepareerd,"0,100"
-12,19070612,1 roei lang 2 M,
-12,19070612,"1 roei lang 1,35 M",
-12,19070612,5 haakjes met houtdraad a 7 1/2 ct,"0,375"
-12,19070717,Een rubber onder de rem van de fiets,"0,250"
-12,19070717,en een zadelpenbout,"0,200"
-12,19070728,Een slot los gemaakt,"0,200"
-12,19070807,Een ring uitgeslagen,"0,050"
-12,19070807,Een ruststoel gerepareerd,"0,550"
-12,19070816,Een stoel 2 ijzertjes met houtschroeven en een slotschroef er aan gemaakt,"0,450"
-12,19070907,Een nieuwe pakketdrager,
-12,19071011,Een boutje in de ketting van de fiets,"0,100"
-12,19071109,de fiets dichtgemaakt,"0,200"
-12,19071111,"Een nieuwe binnenband merk ""Culinaux""","3,250"
-12,19071112,2 binnenbanden dichtgemaakt,"0,300"
-12,19071119,de band van de fiets dichtgemaakt,"0,150"
-12,19071207,Reparaties aan de fietsmoeren,"0,200"
-12,19071211,Een bus Carbid,"0,300"
-12,19071216,Een nieuwe vooras met Cups en moeren in de fiets,"0,650"
-12,19071216,Een schroefje met plaatje,"0,050"
-12,19071223,Een nieuwe bodem onder een Cokesemmer,"0,300"
-13,19070615,Een tandwiel gerepareerd,"0,400"
-14,19070613,Een veertje aan de hondeketting,"0,100"
-14,19070613,de zeef van de hond gerepareerd,"0,200"
-14,19070710,de hit ijzers verlegd,"0,300"
-14,19070722,een paard ijzers verlegd,"0,350"
-14,19070726,Een paard ijzers verlegd,"0,350"
-14,19070728,Een paard aan huis ijzer ondergelegd,"0,200"
-14,19070822,2 slotschroeven,"0,080"
-14,19070824,Een paard ijzers verlegd,"0,350"
-14,19070831,"de fiets gemaakt, kamrad vastgemaakt en verzet","1,500"
-14,19070906,de hit ijzers verlegd,"0,300"
-14,19070924,"de ploeg gescherpt, een oord erop gezet, nieuwe kipveer en een nieuwe hak en langijzer staal opgezet","1,500"
-14,19070927,Reparatie aan het karretje met 5 slotschroeven,"0,400"
-14,19071019,Een paard ijzers verlegd,"0,350"
-14,19071014,Een complete achternaaf met tandwiel in de fiets,"2,350"
-14,19071024,de hit ijzers verlegd,"0,300"
-14,19071109,paard ijzers verlegd met een oud ijzer eronder gedaan,"0,350"
+volgnr,fol,datum,omschrijving,prijs
+1,1,19070605,"Een hitpaard beslagen, vier nieuwe ijzers",1.200
+2,1,19070620,Een theelichtje gerepareerd,0.150
+3,1,19070625,Een paard ijzer verlegd en nieuwe,0.900
+4,1,19070702,Reparatie aan de Cusjonwagen en een nieuwe schroef,0.250
+5,1,19070705,Een boutje in de dogkar,0.200
+6,1,19070708,Een aslade gerepareerd,0.200
+7,1,19070710,De hit een ijzer verlegt,0.150
+8,1,19070722,de hit ijzers verlegt,0.600
+9,1,19070729,de hit ijzers verlegt,0.600
+10,1,19070810,Een schroef door de dogcar,0.080
+11,1,19070819,Een duim een stuk en twee veeren aangezet met spijker,0.350
+12,1,19070820,De dogcar gesmeerd en een nieuw leeren schijfje,0.200
+13,1,19070823,de hit ijzers verlegt en nieuwe,0.900
+14,1,19070828,de hit ijzers verlegt,0.600
+15,1,19070906,Een ijzer aan de dogcar,0.200
+16,1,19070915,de hit een oud ijzer onder gelegd,0.175
+17,1,19070921,de hit beslagen,1.200
+18,1,19071027,de hit ijzers verlegd,0.600
+19,1,19071031,Een kachelpijp gepoetst,0.100
+20,1,19071119,5 ankernagels,0.025
+21,1,19071120,4-2d slotschroeven,
+22,1,19071121,10 = 2 ½ slotschroeven en ijzertje verzet,0.050
+23,1,19071121,4 spijkers,0.020
+24,1,19071122,2 = 2d slotschroeven,
+25,1,19071125,4 banden op een ton hoepels,1.400
+26,1,19071126,6 = 2 duims slotschroeven,
+27,1,19071128,2 stukken navenbandijzer aan ijzertjes gezet om een dakraam op te zetten,0.250
+28,1,19071205,6 = 2 ½ d slotschroeven,
+29,1,19071205,Een trechter g.g. plaatijzer wegende 10 pond,
+30,1,19071206,4 = 2 slotschroeven,
+31,1,19071206,4 veeren aan roeien gemaakt,0.150
+32,1,19071206,10 ankernagels,0.050
+33,1,19071217,de hit beslagen,1.200
+34,2,19070528,de hit ijzer verlegt en een paar nieuwe,0.950
+35,2,19070625,Een ronsel van een berg ijzerwerk aangemaakt,0.200
+36,2,19070729,Een band op een ton,0.300
+37,2,19070729,Twee banden verlast en een stuk aan een handvat,0.200
+38,2,19071019,een hit ijzers verlegd,0.300
+39,2,19071014,4 hengsels met duimen voor glaskozijn,
+40,2,19071014,2 boomen op de venster met 2 bouten en lansjes met kettingjes en krammen en 4 = 2 duim slotschroeven,
+41,3,19070819,4 hoepels verlegd,2.400
+42,3,19070819,8 bladen in de veeren wegende 29 ½ pond,4.205
+43,3,19070819,2 winkelhaken op de wagen met 6 slotschroeven en spijkers,0.500
+44,3,19070819,2 oogen met 4 schroeven en spijkers,0.450
+45,3,19070819,2 kettingen elk 14 schakels per stuk 70 ct,1.400
+46,3,19070819,2 slotschroeven in het achterhek,0.100
+47,3,19070819,3 slotschroeven in de veeren,0.120
+48,3,19070822,Een paard beslagen,1.400
+49,3,19070822,reparatie aan de wagen van D. v. Laan,0.300
+50,3,19070910,Een paard beslagen,0.700
+51,3,19070910,de tree van de wagen gemaakt,0.200
+52,3,19070920,Een strop van de wagen gemaakt,0.250
+53,3,19070919,Een bout in de wagen,0.070
+54,3,19070923,het paard ijzers verlegd,0.350
+55,3,19071001,paard beslagen,0.700
+56,3,19071017,paard een paar nieuwe en verlegd,1.000
+57,3,19071106,paard beslagen,0.700
+58,3,19071109,paard beslagen,0.700
+59,3,19071122,paard ijsnagels geslagen,0.100
+60,3,19071125,paard ijsnagels gestoken,0.200
+61,3,19071126,paard ijsnagels gestoken,0.200
+62,3,19071206,paard vier scherpe ijzers ondergelegd,3.500
+63,3,19071211,een stompe schroef,0.030
+64,3,19071217,een paard de ijzers onderweg genomen en 7 stompe schroeven,0.410
+65,3,19071221,3 stompe schroeven,0.090
+66,3,19071223,9 stompe schroeven in paard gedraaid,0.315
+67,3,19071227,16 scherpe schroeven,0.480
+68,4,19070728,Een paard ijzers verlegd,0.700
+69,4,19071027,Een nieuwe haak op de sleepkar,0.790
+70,4,19071216,Een schuimlepelsteel vastgemaakt,0.600
+71,5,19070527,Een paard beslagen met stoeten,1.500
+72,5,19070604,Een paard beslagen,0.750
+73,5,19070606,Een paard beslagen,0.750
+74,5,19070612,Een paard beslagen,0.750
+75,5,19070618,Een paard ijzers verlegd,0.350
+76,5,19070625,Een paard nieuwe ijzers,0.750
+77,5,19070627,Een paard ijzers verlegd,0.350
+78,5,19070713,Een paard beslagen,0.750
+79,5,19070715,Een paard een ijzer verlegd,0.150
+80,5,19070715,2 bouten gat doorgeslagen en 2 splitveeren,0.100
+81,5,19070723,Een paard een ijzer verlegd,0.150
+82,5,19070730,2 voorhoepels van de wagen verlegt,1.800
+83,5,19070730,de tree gemaakt,0.250
+84,5,19070810,Een paard een ijzer onder gelegd,0.175
+85,5,19070813,Een paard op gladde ijzers gezet,1.400
+86,5,19070814,Een greep aan de steel gemaakt,0.100
+87,5,19070820,Een paard beslagen,0.600
+88,5,19070828,Een bout aan elkaar gezet,0.100
+89,5,19070905,Een oud ijzer onder het paard gemaakt,0.175
+90,5,19070906,Een paard beslagen met stoeten,1.500
+91,5,19070914,Een paard beslagen met stoeten en staal in de kalkoenen,1.600
+92,5,19070927,Een ijzer onder geslagen,0.175
+93,5,19071002,Een driebeentje op 't stel,0.200
+94,5,19071004,Een paard beslagen stoeten en twee kalkhoenen en staal,1.650
+95,5,19071011,de as gelascht en opgedikt nieuwe linksche draad en een band verlegd,3.250
+96,5,19071022,Een paard een paar nieuwe ijzers met stoeten en een paar verlegd,1.100
+97,5,19071024,Een paard beslagen met stoeten en staal in de kalkhoenen,1.600
+98,5,19071028,Een paard beslagen met stoeten,0.800
+99,5,19071104,Een paard met nieuw ijzer met staal,0.400
+100,5,19071121,Een ijzer onder een paard,0.175
+101,5,19071126,Een valletje gelascht en een kram in een touwknuppel,0.250
+102,5,19071204,Een as van een wagen aan elkaar gezet en opgedikt,0.250
+103,5,19071205,Een paard scherpe ijzers 4,
+104,5,19071207,Een paard 4 scherpe ijzers,
+105,5,19071209,Een paard ijzers verlegd en stooten in gezet,0.800
+106,5,19071211,4 stompe schroeven,
+107,5,19071213,paard ijzers de draad veranderd (2 stuks),0.150
+108,5,19071218,16 punten,0.480
+109,5,19071223,16 stompe schroeven,0.480
+110,5,19071228,20 stompe schroeven,0.600
+111,5,19071228,Een paard een ijzer onder gemaakt,0.100
+112,6,19070606,fornuis gerepareerd en nieuwe pijp 85 cm en ringetje gemaakt,1.300
+113,6,19071028,Een stukje pijp aan de nieuwe kachel,0.300
+114,6,19071026,Een halve meter pijp,0.400
+115,6,19071202,Een moertje voor de kachel,0.050
+116,6,19071217,Reparatie aan de pijp van de fornuispot,0.150
+117,7,19070600,Een paard beslagen,
+118,7,19070619,Een paard beslagen,0.700
+119,7,19070620,Rijwielketting gemaakt voor Jacob,0.250
+120,7,19070626,2 paarden elk een ijzer ondergelegd en andere vastgemaakt,0.350
+121,7,19070626,een ijzer onder gelegd,0.150
+122,7,19070627,reparatie aan de fiets van Jacob,0.100
+123,7,19070702,Jacob een nieuwe band,4.000
+124,7,19070703,een band dicht gemaakt,0.150
+125,7,19070706,een schroefje en een bandventiel verzet,0.350
+126,7,19070719,de hit beslagen,0.600
+127,7,19070726,Een paard beslagen,0.700
+128,7,19070801,Een paard beslagen,0.700
+129,7,19070808,Een lantaarnhaak aan de kar gemaakt,0.200
+130,7,19070809,fietsband dichtgemaakt,0.150
+131,7,19070810,Een nieuwe as met Cups en kogels in de fiets,1.200
+132,7,19070829,Een paard beslagen,0.700
+133,7,19070831,Een hit beslagen,0.600
+134,7,19071010,de ras beslagen,1.400
+135,7,19071026,J. Polak de fiets dichtgemaakt,0.150
+136,7,19071120,Een paard beslagen,0.700
+137,7,19071227,Een paard gescherpt,2.500
+138,8,19070600,6 ringen op zeisen boomen,0.450
+139,8,19070618,Een nagel en 2 ringen,0.175
+140,8,19070618,6 ringen op zeisenboomen,0.450
+141,9,19070600,Een kop voor haarhamer,0.200
+142,10,19070612,Een kop voor haarhamer,0.200
+143,10,19070612,Een haarspit aangelegd,0.400
+144,10,19070628,10 winkelhaakjes a 7 ct stuk,0.700
+145,10,19070709,Een haarhamer kop voorgezet,0.200
+146,10,19070728,Een haarhamer aangelegd,0.200
+147,10,19070829,2 winkelhaakjes met 6 houtschroeven,0.250
+148,10,19070904,Een nieuwe pijp 1 M bij 73 cM 6 1/2 p en een schuifje,1.795
+149,10,19070924,Een nieuw dekseltje met handvat,0.250
+150,10,19071001,De ploeg gescherpt,
+151,10,19071127,Een lunsje,0.050
+152,10,19070000,de knecht van Berends een haarhamer,0.200
+153,11,19070612,Een kozijnanker een stuk aangezet,0.200
+154,11,19070805,de hit ijzers verlegt,0.300
+155,11,19070808,Een zakring,0.650
+156,11,19070812,Een paard beslagen,0.900
+157,11,19070822,4 doken,0.080
+158,11,19070823,2 hengsels gemaakt van een oud stuk ijzer,0.500
+159,11,19070823,12 slotschroeven,0.480
+160,11,19070823,25 spijkers,0.125
+161,11,19070823,1 nieuw hengsel wegende 5 1/2 pond,0.650
+162,11,19070823,Een haakje aan een grendel,0.100
+163,11,19070827,Een bodem in de fornuispot,0.650
+164,11,19070831,de fiets dichtgemaakt,0.200
+165,11,19070910,"de fiets dichtgemaakt, nieuwe draad met moer en nagezien",0.500
+166,11,19071105,het een paar ijzers verlegd en een paar oude ijzers onder gelegd,0.700
+167,11,19071108,2 lipjes aan kacheldeksel,0.100
+168,11,19071223,de damesfiets de trapper gerepareerd,0.100
+169,12,19070612,1 roei lang 2 M,
+170,12,19070612,"1 roei lang 1,35 M",
+171,12,19070612,5 haakjes met houtdraad a 7 1/2 ct,0.375
+172,12,19070717,Een rubber onder de rem van de fiets,0.250
+173,12,19070717,en een zadelpenbout,0.200
+174,12,19070728,Een slot los gemaakt,0.200
+175,12,19070807,Een ring uitgeslagen,0.050
+176,12,19070807,Een ruststoel gerepareerd,0.550
+177,12,19070816,Een stoel 2 ijzertjes met houtschroeven en een slotschroef er aan gemaakt,0.450
+178,12,19070907,Een nieuwe pakketdrager,
+179,12,19071011,Een boutje in de ketting van de fiets,0.100
+180,12,19071109,de fiets dichtgemaakt,0.200
+181,12,19071111,"Een nieuwe binnenband merk ""Culinaux""",3.250
+182,12,19071112,2 binnenbanden dichtgemaakt,0.300
+183,12,19071119,de band van de fiets dichtgemaakt,0.150
+184,12,19071207,Reparaties aan de fietsmoeren,0.200
+185,12,19071211,Een bus Carbid,0.300
+186,12,19071216,Een nieuwe vooras met Cups en moeren in de fiets,0.650
+187,12,19071216,Een schroefje met plaatje,0.050
+188,12,19071223,Een nieuwe bodem onder een Cokesemmer,0.300
+189,13,19070615,Een tandwiel gerepareerd,0.400
+190,14,19070613,Een veertje aan de hondeketting,0.100
+191,14,19070613,de zeef van de hond gerepareerd,0.200
+192,14,19070710,de hit ijzers verlegd,0.300
+193,14,19070722,een paard ijzers verlegd,0.350
+194,14,19070726,Een paard ijzers verlegd,0.350
+195,14,19070728,Een paard aan huis ijzer ondergelegd,0.200
+196,14,19070822,2 slotschroeven,0.080
+197,14,19070824,Een paard ijzers verlegd,0.350
+198,14,19070831,"de fiets gemaakt, kamrad vastgemaakt en verzet",1.500
+199,14,19070906,de hit ijzers verlegd,0.300
+200,14,19070924,"de ploeg gescherpt, een oord erop gezet, nieuwe kipveer en een nieuwe hak en langijzer staal opgezet",1.500
+201,14,19070927,Reparatie aan het karretje met 5 slotschroeven,0.400
+202,14,19071019,Een paard ijzers verlegd,0.350
+203,14,19071014,Een complete achternaaf met tandwiel in de fiets,2.350
+204,14,19071024,de hit ijzers verlegd,0.300
+205,14,19071109,paard ijzers verlegd met een oud ijzer eronder gedaan,0.350
+206,15,19070613,6 sleutels en 2 haakankers 17 1/2 pond a    p pond,
+207,15,19070613,9 ankers vermaakt a 20 ct per stuk,1.800
+208,15,19070613,"2 boonen lang 1,55 M",
+209,15,19070613,4 hengsels en duimen 1/2 M of 45 cM,2.400
+210,15,19070618,2 schoorsteenankers 17 1/2 pond en veeren aangemaakt,1.700
+211,15,19070621,Een anker lang 4 M 1 x 1/2 met moer en plaats,0.600
+212,15,19070629,Een band op de sportkar,0.350
+213,15,19070709,6 gaten in scharnieren,0.050
+214,15,19070713,6 hengsels 45 pond,4.500
+215,15,19070713,3 nieuwe duimen met draad,1.200
+216,15,19070713,3 duimen stukken opgezet en draad opgesneden 25 ct per stuk,0.600
+217,15,19070713,2 duimen stuk opgezet,0.300
+218,15,19070724,"Een hengsel en duimlang 1,06 en zware",1.150
+219,15,19070730,2 grendels en 6 krammen,0.400
+220,15,19070730,een bout een kop opgezet en gat doorgeslagen,
+221,15,19070819,Een oog aan een hengsel gezet,0.100
+222,15,19070821,Een stuk bandijzer,0.100
+223,15,19070821,Een stuk plaatijzer,0.200
+224,15,19071028,J. Zomer fiets middenas gerepareerd,0.300
+225,15,19071021,Een stukje aan een haak van een ketting gezet,0.100
+226,16,19070615,reparatie aan haarhamer,0.100
+227,17,19070613,Een zeisboom,0.400
+228,17,19071121,Een kram,0.050
+229,18,19070618,Een paard beslagen,0.700
+230,18,19070730,Een paard beslagen,0.700
+231,18,19070930,Een paard ijzers verlegd,0.350
+232,18,19071118,Een paard een oud ijzer onder gelegd,0.175
+233,18,19071209,Een paard beslagen,0.700
+234,18,19071209,4 nieuwe klinknagels in wagenrong,
+235,19,19070617,fornuis gerepareerd pijpje op de plaat,0.250
+236,19,19070617,oven gemaakt,0.500
+237,19,19070619,Een ring,0.200
+238,19,19070626,Een hangelt aan een pot,0.100
+239,19,19070702,Een krabber,0.800
+240,19,19070713,een stuk aan een roei gezet,0.250
+241,19,19070720,Een roei en drie duimpjes,0.550
+242,19,19071105,Een kruk van de deur gerepareerd,0.100
+243,19,19071109,2 bandjes op een zandbakje,0.200
+244,19,19071210,Een nieuwe veer in een slot,0.200
+245,20,19070617,Een hoepel op de kruiwagen verlegd,0.250
+246,20,19070626,Een moertje en schijfje,0.030
+247,20,19070928,25 kistkrammen,
+248,20,19071204,Een bijl uitgeslagen,0.300
+249,20,19071216,2 stukjes bandijzer,0.100
+250,21,19070619,3 slijtijzers met spijkers,
+251,21,19070619,2 haken aan ketting,
+252,21,19070619,1 nieuwe ketting aan achterhek met 4 krammen,
+253,21,19070619,2 achter en 1 voor wagen hoepel verlegt,
+254,21,19070619,Een oog aan een stang door de ladder,
+255,21,19070619,1 slotschroef 5 dm,
+256,21,19070619,2 1 dm slijtijzer,
+257,21,19070619,2 slijtijzer van 3 dm,
+258,21,19070619,Een stuk aan schamelbout gezet,
+259,21,19070619,een platen pan gemaakt,
+260,21,19070619,1 nieuwe slotschroef en een moer,
+261,21,19070619,een slijtijzer 2 1/2 x 4 d,
+262,21,19070619,een stukje aan plaat op achterkeer,
+263,21,19070619,plaatjes op langwagen,
+264,21,19070619,een voorhoepel verlegt,
+265,21,19070619,2 lunsjes voor de as,
+266,22,19070619,Een brander op een lantaarn,0.200
+267,23,19070600,Een paard beslagen,1.200
+268,23,19070600,Een haak,0.750
+269,23,19070702,Een dolpen,0.350
+270,23,19070705,Een haak,0.750
+271,23,19070729,2 blokken 1 nieuwe bout en een stuk opgezet en een haak van een blok een stuk opgezet,
+272,23,19070801,Een blok twee stukken opgezet 1 nieuwe bout een nieuw oog aan een paaltje,
+273,23,19070807,"30, 1 1/2 dm ankernagels",0.150
+274,23,19070809,"2 zware platen op dolkast met veeren per stuk 0,65",1.300
+275,23,19070809,"2 lichte platen per stuk 0,35",0.700
+276,23,19070809,1 nieuwe dolpen en oude verandert en stuk opgezet,0.550
+277,23,19070809,16 spijkers,0.070
+278,23,19070809,16 1 dm houtschroeven,0.080
+279,23,19070809,6 .1 1/2 dm houtschroeven,0.030
+280,23,19070817,de hit nieuwe ijzers,0.600
+281,23,19070827,de hit beslagen,0.600
+282,23,19070904,2 lantaarnkokers veranderd,0.200
+283,23,19070909,Boonenmolen gehuurd,0.100
+284,23,19070916,2 lange Zweedsche bouten en 1 boutje van 1 1/2 schroef,0.450
+285,23,19071010,de hit een paar nieuwe ijzers en een paar verlegd,0.900
+286,23,19071105,3 kachelpijpen gebrand,0.500
+287,23,19071021,Een nieuwe Contramoer voor de tilburij,0.350
+288,23,19071119,de hit beslagen,1.200
+289,23,19071126,Een band op een ton,0.650
+290,23,19071127,Een dolpen gewoon groot,0.300
+291,23,19071112,Een strijkpan,0.650
+292,23,19071112,Een nieuwe sleutel,0.200
+293,25,19070620,Een paard ijzers verlegd,0.300
+294,25,19070709,Een paard beslagen,0.700
+295,25,19070713,Een bandje op een sleepkarraadje en een busje ingemaakt,0.250
+296,25,19070725,Een paard beslagen,0.700
+297,25,19070827,een paard ijzers verlegd,0.350
+298,25,19070829,Een band op een vat,0.350
+299,25,19070903,Een paard ijzers verlegd,0.350
+300,25,19070912,Een band op een melkvat,0.350
+301,25,19071017,Een paard ijzers verlegd,0.350
+302,25,19071121,Een S [tekeningetje van een haak?],0.030
+303,25,19071127,Een stoel gemaakt,0.200
+304,25,19071129,Een stuk aan een haal gezet en klosje aan een vuurtest,0.250
+305,25,19071207,4 groote spijkers,0.200
+306,25,19071211,paard de ijzers velegd en staal in de kalkoenen gezet,0.400
+307,25,19071214,Reparatie aan een ton,0.100
+308,26,19070620,Een paard ijzers verlegd,0.300
+309,26,19070710,Een paard ijzers verlegd,0.300
+310,26,19070718,Een paard ijzers verlegd,0.300
+311,26,19070912,Een paard beslagen,1.400
+312,26,19070913,Een paard beslagen,0.700
+313,26,19070928,Een hoepel op de kar verlegd,
+314,26,19071005,de ploeg verscherpt pas gemaakt nieuwe kipveer en hak,
+315,26,19071007,Een langijzer staal opgezet,
+316,26,19071127,Een paard beslagen,1.400
+317,26,19071212,Een paard ijzers verlegd,0.350
+318,26,19071223,Een ijzer aan de karn pols,1.150
+319,27,19070620,2 klinknagels,0.060
+320,28,19070620,een voorwagenhoepel verlegd,0.600
+321,29,19070627,Een paard,0.700
+322,29,19070729,Een ploeg gescherpt en een voord opgezet langijzer gescherpt,
+323,29,19070829,Een paard beslagen,0.700
+324,29,19070927,Een ploeg gescherpt,
+325,29,19071024,Een paard beslagen,0.700
+326,29,19071120,Een paard beslagen,0.700
+327,30,19070620,Een hit voor oude ijzers,0.500
+328,30,19070620,achter verlegd,0.300
+329,30,19070828,Een nieuwe ring met handvat,0.450
+330,30,19070829,de hit 2 nieuwe ijzers en verlegt,0.900
+331,30,19071202,Een nieuwe kachelpijp wegende 5 pond a 22 1/2 ct p.p.,1.125
+332,30,19071202,en een elleboog,0.250
+333,30,19071202,Een nisbus,0.200
+334,30,19071202,de hit beslagen,0.600
+335,30,19071207,Een koperen schijfje voor kachelpijp,0.250
