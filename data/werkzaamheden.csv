@@ -330,7 +330,7 @@ volgnr,fol,datum,omschrijving,prijs,actie,materiaal,object
 329,30,19070828,Een nieuwe ring met handvat,0.450,,,
 330,30,19070829,de hit 2 nieuwe ijzers en verlegt,0.900,,,hit
 331,30,19071202,Een nieuwe kachelpijp wegende 5 pond a 22 1/2 ct p.p.,1.125,,,kachel
-332,30,19071202,en een elleboog,0.250,,,kachel
+332,30,19071202,en een elleboog,0.250,,ellebogen,kachel
 333,30,19071202,Een nisbus,0.200,,,
 334,30,19071202,de hit beslagen,0.600,,,hit
 335,30,19071207,Een koperen schijfje voor kachelpijp,0.250,,,kachel
@@ -442,7 +442,7 @@ volgnr,fol,datum,omschrijving,prijs,actie,materiaal,object
 441,50,19070625,IJzer onder paard vastgemaakt,0.050,,,paard
 442,50,19071004,Reparatie aan het stel as verzet,0.500,,,
 443,50,19071118,Een nieuwe kachelpijp wegende / 10 pond a 22 1/5 ct p.p.,2.250,,,kachel
-444,50,19071118,met 1 elleboog en een oude eelboog ingekort,0.350,,,kachel
+444,50,19071118,met 1 elleboog en een oude eelboog ingekort,0.350,,ellebogen,kachel
 445,51,19070628,Een ring en een deksel,0.750,,,
 446,51,19070907,Een nieuwe hoepel op de kruiwagen / een nieuwe spil en 2 nieuwe bandjes,,,,kruiwagen
 447,51,19071126,8 einden bandijzer 1 d 75 cm lang,0.850,,,
@@ -475,7 +475,7 @@ volgnr,fol,datum,omschrijving,prijs,actie,materiaal,object
 474,55,19070702,Een schroefdraaien,0.750,,,
 475,55,19070817,2 schroeven,0.200,,,
 476,55,19071030,"2,75 cM kachelpijp wegende 14 1/2 pond",,,,kachel
-477,55,19071106,"Een nieuwe g.g. pijp 75 cM bij 1,25 M / wegende 11 pond elleboog",,,,kachel
+477,55,19071106,"Een nieuwe g.g. pijp 75 cM bij 1,25 M / wegende 11 pond elleboog",,,ellebogen,kachel
 478,55,19071122,"Een nieuwe rooster ""Salemander""",,,,
 479,55,19071125,Een kap op een pijp n.g.,0.450,,,
 480,55,19071130,Een nieuwe schudrooster,,,,
@@ -512,7 +512,7 @@ volgnr,fol,datum,omschrijving,prijs,actie,materiaal,object
 511,60,19071114,een nieuwe moer op een bout,0.050,,,
 512,60,19071118,Een zware band op een vleeschkuip,0.700,,,
 513,60,19071129,Een nieuwe kachelpijp 2 M met dopje / wegende 9 pond a 22 1/2 ct pp.,2.025,,,kachel
-514,60,19071129,Een elleboog met dopje,0.300,,,kachel
+514,60,19071129,Een elleboog met dopje,0.300,,ellebogen,kachel
 515,60,19071212,Een nieuwe staal in de snijmachine,1.200,,,snijmachine
 516,60,19071219,Een paard ijzers verlegd oude ijzers bijgedaan,0.450,,,paard
 517,60,19071223,paard beslagen,0.700,,,paard
@@ -621,7 +621,7 @@ volgnr,fol,datum,omschrijving,prijs,actie,materiaal,object
 620,76,19071115,de hit beslagen,0.600,,,hit
 621,76,19071211,de hit beslagen,0.600,,,hit
 622,77b,19071223,Een nieuwe kachelpijp wegende 12 pond / a 24 ct p.p.,2.880,,,kachel
-623,77b,19071223,2 ellebogen,0.500,,,kachel
+623,77b,19071223,2 ellebogen,0.500,,ellebogen,
 624,77b,19071223,Een schuifje en koperen ring samen,0.325,,,
 625,78,19070725,Een paard beslagen,0.700,,,paard
 626,78,19070815,Een paard ijzers verlegd,0.700,,,paard
@@ -694,7 +694,7 @@ volgnr,fol,datum,omschrijving,prijs,actie,materiaal,object
 693,93,19070927,3 veertjes op inmaakpot,0.100,,,
 694,93,19070926,Huur boonenmolen,0.100,,,
 695,93,19071030,Een paard beslagen,0.700,,,paard
-696,93,19071026,Een nieuwe pijp aan de kachel met / 3 ellebogen wegende 20 pond,5.320,,,kachel
+696,93,19071026,Een nieuwe pijp aan de kachel met / 3 ellebogen wegende 20 pond,5.320,,ellebogen,kachel
 697,93,19071115,Een tuindeursleutel,0.300,,,
 698,93,19071126,Een paard beslagen van de Hoogebeeke,1.400,,,paard
 699,93,19071206,Een paraplustandaard gerepareerd,0.200,,,
@@ -875,56 +875,56 @@ volgnr,fol,datum,omschrijving,prijs,actie,materiaal,object
 874,125,19071101,de kachelkap gerepareerd / en een kleine reparatie aan de pijp,0.400,,,kachel
 875,126,19071101,2 banden om een tonnetje,0.400,,,ton
 876,127,19071101,Een band op een balie,0.250,,,
-877,128,19071101,Een nieuwe kachelpijp met ellebogen wegende 10 pond / a 22 ct per pond,2.250,,,kachel
-878,128,19071101,2 ellebogen,0.375,,,kachel
+877,128,19071101,Een nieuwe kachelpijp met ellebogen wegende 10 pond / a 22 ct per pond,2.250,,ellebogen,
+878,128,19071101,2 ellebogen,0.375,,ellebogen,
 879,128,19071112,Een nieuwe veer in een slot / en aangemaakt,0.200,,,
 880,129,19071104,Een nieuwe deksel,0.300,,,
-881,129,19071104,"1,25 cm kachelpijp met schuifje / wegende 7 pond 1 1/2 ons 22 1/2 ct p.p.",1.675,,,kachel
-882,130,19071104,"Een nieuwe ring, en een pijp aangedraaid",0.350,,,
-883,131,19071104,3 M pijp wegende 15 pond a 22.5 ct p.p.,3.375,,,
-884,131,19071118,Een nieuw rooster en kachel,,,,kachel
-885,131,19071130,"2 1/2 M nieuwe pijp wegende 12 1/2 p a 22 1/2 c p p ",2.080,,,
-886,131,19071130,2 ellebogen,0.500,,,kachel
-887,131,19071205,Een winkelhaakje 1 x 1/4,0.200,,,
-888,132,19071108,Een stuk oude pijp,0.100,,,
-889,133,19071111,2 g.g. bandjes op een tonnetje,0.300,,,ton
-890,133,19080104,Een nieuwe kachelpijp wegende 8 pond,2.000,,,kachel
-891,133,19080104,en 3 ellebogen,0.750,,,kachel
+881,129,19071104,"1,25 cm kachelpijp met schuifje / wegende 7 pond 1 1/2 ons 22 1/2 ct p.p.",1.675,,kachelpijpen,
+882,130,19071104,"Een nieuwe ring, en een pijp aangedraaid",0.350,,kachelpijpen,
+883,131,19071104,3 M pijp wegende 15 pond a 22.5 ct p.p.,3.375,,kachelpijpen,
+884,131,19071118,Een nieuw rooster en kachel,,,roosters | kachels,
+885,131,19071130,"2 1/2 M nieuwe pijp wegende 12 1/2 p a 22 1/2 c p p ",2.080,,kachelpijpen,
+886,131,19071130,2 ellebogen,0.500,,ellebogen,
+887,131,19071205,Een winkelhaakje 1 x 1/4,0.200,,winkelhaakje,
+888,132,19071108,Een stuk oude pijp,0.100,,kachelpijpen,
+889,133,19071111,2 g.g. bandjes op een tonnetje,0.300,,banden,ton
+890,133,19080104,Een nieuwe kachelpijp wegende 8 pond,2.000,,kachelpijpen,
+891,133,19080104,en 3 ellebogen,0.750,,ellebogen,
 892,133,19080104,en kinderwagen,,,,kinderwagen
-893,134,19071026,"Een nieuwe kachelpijp lang M 1,50 / met elleboog 7 pond",1.575,,,kachel
-894,134,19071026,En een nieuwe voering in de kachel met / een dop kast,0.250,,,kachel
-895,134,19071111,Een poot in een kolenbak,0.150,,,
-896,135,19071111,Een band op een balie g.g.,0.300,,,
-897,136,19071113,Een twijgmes,0.600,,,
-898,137,19071116,Een nieuwe kachelpijp wegende 11 pond / a 22 1/2 ct. p.p.,2.475,,,kachel
-899,137,19071116,2 ellebogen,0.500,,,kachel
-900,138,19071118,"1,50 M pijp aan de kachel met elleboog / wegende 7 pond a 22 1/2 ct p.p.",1.575,,,kachel
-901,138,19071118,en elleboog,0.250,,,kachel
-902,138,19071118,fornuis gepoetst en pijp veranderd,0.400,,,fornuis
-903,138,19071118,2 lampenhaken met moer en plaat / 30 cM lang,0.300,,,
-904,138,19071118,Een lamphaak,0.150,,,
-905,138,19071118,en 2 duimpjes,0.100,,,
-906,138,19071119,Een stukje 25 cM nieuwe pijp / en kachel gepoetst en gezet,0.450,,,kachel
-907,138,19071120,Een kachel gezet en een stukje nieuwe pijp,0.500,,,kachel
-908,138,19071214,2 roeien,0.400,,,
-909,139,19071118,4 ringen aan stalreppels,0.200,,,
-910,140,19071122,Een tree aan de kar gemaakt,0.300,,,kar
-911,141,19071125,Een kachelpijp 7 1/2 pond,1.685,,,kachel
-912,141,19071125,met 3 elleboogen met schuifje,0.850,,,kachel
+893,134,19071026,"Een nieuwe kachelpijp lang M 1,50 / met elleboog 7 pond",1.575,,kachelpijpen | ellebogen,kachel
+894,134,19071026,En een nieuwe voering in de kachel met / een dop kast,0.250,,dopkasten,kachel
+895,134,19071111,Een poot in een kolenbak,0.150,,poot,kolenbak
+896,135,19071111,Een band op een balie g.g.,0.300,,band,balie
+897,136,19071113,Een twijgmes,0.600,,twijgmes,
+898,137,19071116,Een nieuwe kachelpijp wegende 11 pond / a 22 1/2 ct. p.p.,2.475,,kachelpijpen,
+899,137,19071116,2 ellebogen,0.500,,ellebogen,
+900,138,19071118,"1,50 M pijp aan de kachel met elleboog / wegende 7 pond a 22 1/2 ct p.p.",1.575,,kachelpijpen | ellebogen,kachel
+901,138,19071118,en elleboog,0.250,,ellebogen,
+902,138,19071118,fornuis gepoetst en pijp veranderd,0.400,poetsen,,kachelpijp | fornuis
+903,138,19071118,2 lampenhaken met moer en plaat / 30 cM lang,0.300,,lamphaken | moer | plaat,
+904,138,19071118,Een lamphaak,0.150,,lamphaken,
+905,138,19071118,en 2 duimpjes,0.100,,duimpjes,
+906,138,19071119,Een stukje 25 cM nieuwe pijp / en kachel gepoetst en gezet,0.450,poetsen | zetten,,kachel
+907,138,19071120,Een kachel gezet en een stukje nieuwe pijp,0.500,zetten,kachelpijp,kachel
+908,138,19071214,2 roeien,0.400,,roeien,
+909,139,19071118,4 ringen aan stalreppels,0.200,,ringen,stalreppels
+910,140,19071122,Een tree aan de kar gemaakt,0.300,maken,,tree | kar
+911,141,19071125,Een kachelpijp 7 1/2 pond,1.685,,kachelpijpen,kachel
+912,141,19071125,met 3 elleboogen met schuifje,0.850,,ellebogen,kachel
 913,142,19071127,Een halshout,1.400,,halshouten,
 914,143,19071128,Een nieuwe 5/8 rollerketting,2.250,,rollerkettingen,
-915,144,19071128,het voorwiel van de fiets rechtgezet,0.200,,,fiets
-916,145,19071128,Reparatie aan de zuigerperspomp,0.350,,,zuigerperspomp
-917,146,19071129,Reparatie aan de fiets,0.300,,,fiets
+915,144,19071128,het voorwiel van de fiets rechtgezet,0.200,rechtzetten,,voorwiel | fiets
+916,145,19071128,Reparatie aan de zuigerperspomp,0.350,repareren,,zuigerperspomp
+917,146,19071129,Reparatie aan de fiets,0.300,repareren,,fiets
 918,147,19071130,Een nieuwe brander op lantaarn,0.200,,branders,lantaarn
 919,148,19071130,Een nieuwe pijp wegende 4 pond a 22 1/2 p.p.,0.900,,kachelpijpen,kachel
 920,148,19071130,met elleboog,0.250,,ellebogen,kachel
 921,148,19071130,en plaatje,0.100,,plaatjes,kachel
-922,149,19071204,bandijzer 1 1/2  g.g. wegende 10 pond 1 ons,,,,
-923,150,19071205,Een schoorsteenplaat wegende 5 1/2 pond a 15 ct p.p.,0.835,,,kachel
-924,151,19071206,Een nieuwe bus aan de kachel met deksel,0.500,,,kachel
-925,152,19071206,Een ring en stuk aan de pijp,0.450,,,kachel
-926,153,19071209,Een ring en een deksel met een handvat,0.450,,,
-927,154,19071210,Een nieuwe zakring,0.450,,,
-928,155,19071211,de fiets dichtgemaakt,0.150,,,fiets
-929,156,19071212,Een bijl aangelegd,0.550,,,bijl
+922,149,19071204,bandijzer 1 1/2  g.g. wegende 10 pond 1 ons,,,bandijzer,
+923,150,19071205,Een schoorsteenplaat wegende 5 1/2 pond a 15 ct p.p.,0.835,,schoorsteenplaten,
+924,151,19071206,Een nieuwe bus aan de kachel met deksel,0.500,,bussen,kachel
+925,152,19071206,Een ring en stuk aan de pijp,0.450,,,kachelpijp | kachel
+926,153,19071209,Een ring en een deksel met een handvat,0.450,,deksels,
+927,154,19071210,Een nieuwe zakring,0.450,,zakringen,
+928,155,19071211,de fiets dichtgemaakt,0.150,dichtmaken,,fiets
+929,156,19071212,Een bijl aangelegd,0.550,aanleggen,,bijl

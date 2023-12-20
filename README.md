@@ -9,9 +9,9 @@ The registration contains an index were the names of customers are alphabeticall
 TBD: Add picture
 
 ## Data
-This dataset contains two tables, one with an overview of the customers (```klanten.csv```) and one with the work and product that HJ Zandhuis sold (```werkzaamheden.csv```). Based on the available data (sometimes only a familyname) I try to find more information on the customer in the population registration of the municipality of Wijhe. This is added to the first table. The second table contains the work the blacksmith has done, the date and the price in Dutch guilders (note that in 1907 prices could have half cents, so three decimals are needed). This table refers to the customer in the first table through the pagenumber ('fol').
+This dataset contains two tables, one with an overview of the customers ([klanten](data/klanten.csv)) and one with the work and product that HJ Zandhuis sold (['werkzaamheden'](data/werkzaamheden.csv)). Based on the available data (sometimes only a familyname) I try to find more information on the customer in the population registration of the municipality of Wijhe. This is added to the first table. The second table contains the work the blacksmith has done, the date and the price in Dutch guilders (note that in 1907 prices could have half cents, so three decimals are needed). This table refers to the customer in the first table through the pagenumber ('fol').
 
 TBD: create a third table with a structured vocabulary of the things he handled and the handling itself (eg. 'paard' and 'beslaan', or 'wagen' and 'repareren'). This in order to standardize the werkzaamheden and use that for analysis.
 
 ## Analysis
-I use python/pandas in a Jupyter Notebook to get some insight on the work of a blacksmith in a Dutch farm village, early twentieth century.
+I use [python/pandas in a Jupyter Notebook](analysis.ipynb) to get some insight on the work of a blacksmith in a Dutch farm village, early twentieth century.
