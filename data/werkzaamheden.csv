@@ -47,7 +47,7 @@ volgnr,fol,datum,omschrijving,prijs,object,actie,materiaal
 46,3,19070819,2 slotschroeven in het achterhek,0.100,achterhek,,slotschroeven
 47,3,19070819,3 slotschroeven in de veeren,0.120,veer | wagen,,slotschroeven
 48,3,19070822,Een paard beslagen,1.400,paard,beslaan,
-49,3,19070822,reparatie aan de wagen van D. v. Laan,0.300,wagen,repareren,
+49,3,19070822,reparatie aan de wagen van D. v. Laar,0.300,wagen,repareren,
 50,3,19070910,Een paard beslagen,0.700,paard,beslaan,
 51,3,19070910,de tree van de wagen gemaakt,0.200,tree | wagen,maken,
 52,3,19070920,Een strop van de wagen gemaakt,0.250,strop | wagen,maken,
@@ -201,7 +201,7 @@ volgnr,fol,datum,omschrijving,prijs,object,actie,materiaal
 200,14,19070924,"de ploeg gescherpt, een oord erop gezet / nieuwe kipveer en een nieuwe hak en / langijzer staal opgezet",1.500,oord | kipveer | hak | langijzer | ploeg,scherpen | opzetten,
 201,14,19070927,Reparatie aan het karretje met 5 slotschroeven,0.400,kar,repareren,slotschroeven
 202,14,19071019,Een paard ijzers verlegd,0.350,paard | ijzer,verleggen,
-203,14,19071014,Een complete achternaaf met tandwiel in de fiets,2.350,,,achternaven
+203,14,19071014,Een complete achternaaf met tandwiel in de fiets,2.350,,,achternaven | fietsen
 204,14,19071024,de hit ijzers verlegd,0.300,hit | ijzer,verleggen,
 205,14,19071109,paard ijzers verlegd met een oud ijzer eronder gedaan,0.350,paard | ijzer,verleggen,
 206,15,19070613,6 sleutels en 2 haakankers 17 1/2 pond a    p pond,,,,sleutels | haakankers
